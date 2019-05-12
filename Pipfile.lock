@@ -1,0 +1,57 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "522bc3e11d531f5778a2eeb83d7747e41ad44ea802f74c4c78ea09054d44fc13"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "click": {
+            "hashes": [
+                "sha256:29f99fc6125fbc931b758dc053b3114e55c77a6e4c6c3a2674a2dc986016381d",
+                "sha256:f15516df478d5a56180fbf80e68f206010e6d160fc39fa508b65e035fd75130b"
+            ],
+            "version": "==6.7"
+        },
+        "mempass": {
+            "hashes": [
+                "sha256:b9c862fef1542c1c85058ab3dc478af2d33761ab1bbbedaed8d488e087ee0313"
+            ],
+            "index": "pypi",
+            "version": "==0.1.2"
+        },
+        "random-cli": {
+            "hashes": [
+                "sha256:32054e7354f390da3b16a0190b41fae27ca79435462907a82e4936ab8d74e4be",
+                "sha256:665ffdd7ebf0b5cce5ae22f7ca2bdbb5bd00c2d2a9a939e5cfd0cea6ee25e3e6"
+            ],
+            "index": "pypi",
+            "version": "==1.0.1"
+        },
+        "random-username": {
+            "hashes": [
+                "sha256:2536feb63fecde7e01ede4a541aadb6f0b58794a7ab327ca5369d2a4b7664c06",
+                "sha256:5fdc0604b5d1bdfe4acf4cd7491a9de1caf41bbdd890f646b434e09ae2a1b7ce"
+            ],
+            "index": "pypi",
+            "version": "==1.0.2"
+        },
+        "zxcvbn": {
+            "hashes": [
+                "sha256:6b09db5a411f927a7effac40b50ab0f9b1eae7b1659134b4a931e78950dd8387"
+            ],
+            "version": "==4.4.27"
+        }
+    },
+    "develop": {}
+}
